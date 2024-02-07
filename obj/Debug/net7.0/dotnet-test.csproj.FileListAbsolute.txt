@@ -1,0 +1,68 @@
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\bin\Debug\net7.0\appsettings.json
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\bin\Debug\net7.0\dotnet-test.exe
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\bin\Debug\net7.0\dotnet-test.deps.json
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\bin\Debug\net7.0\dotnet-test.runtimeconfig.json
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\bin\Debug\net7.0\dotnet-test.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\bin\Debug\net7.0\dotnet-test.pdb
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\dotnet-test.csproj.AssemblyReference.cache
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\dotnet-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\dotnet-test.AssemblyInfoInputs.cache
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\dotnet-test.AssemblyInfo.cs
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\dotnet-test.csproj.CoreCompileInputs.cache
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\dotnet-test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\dotnet-test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\staticwebassets\msbuild.dotnet-test.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\staticwebassets\msbuild.build.dotnet-test.props
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dotnet-test.props
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dotnet-test.props
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\scopedcss\bundle\dotnet-test.styles.css
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\dotnet-test.csproj.CopyComplete
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\dotnet-test.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\refint\dotnet-test.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\dotnet-test.pdb
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\dotnet-test.genruntimeconfig.cache
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\obj\Debug\net7.0\ref\dotnet-test.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\dotnet-test\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\bin\Debug\net7.0\appsettings.json
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\bin\Debug\net7.0\dotnet-test.exe
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\bin\Debug\net7.0\dotnet-test.deps.json
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\bin\Debug\net7.0\dotnet-test.runtimeconfig.json
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\bin\Debug\net7.0\dotnet-test.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\bin\Debug\net7.0\dotnet-test.pdb
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\dotnet-test.csproj.AssemblyReference.cache
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\dotnet-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\dotnet-test.AssemblyInfoInputs.cache
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\dotnet-test.AssemblyInfo.cs
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\dotnet-test.csproj.CoreCompileInputs.cache
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\dotnet-test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\dotnet-test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\staticwebassets\msbuild.dotnet-test.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\staticwebassets\msbuild.build.dotnet-test.props
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dotnet-test.props
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dotnet-test.props
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\scopedcss\bundle\dotnet-test.styles.css
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\dotnet-test.csproj.CopyComplete
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\dotnet-test.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\refint\dotnet-test.dll
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\dotnet-test.pdb
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\dotnet-test.genruntimeconfig.cache
+C:\Users\Jad.EL-FANITY\OneDrive - Akkodis\Desktop\DOT NET\dotnet-test\obj\Debug\net7.0\ref\dotnet-test.dll
